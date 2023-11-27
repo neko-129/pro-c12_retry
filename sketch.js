@@ -39,11 +39,11 @@ function draw() {
   
  //var select_sprites = Math(random(1,3));
 
- var select_sprites = Math.random(random(1,3));
+ //var select_sprites = Math.random(random(1,3));
 
  //var select_sprites = Math.round(1,3);
 
- //var select_sprites = Math.round(random(1,3));
+ var select_sprites = Math.round(random(1,3));
 
   
   // if (frameCount % 50 == 0) {
